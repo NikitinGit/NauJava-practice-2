@@ -1,0 +1,22 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Собранные артефакты
+*.jar
+*.war
+*.ear
+*.class
+
+# Результат работы задания №5
+downloaded.bin
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
